@@ -11,7 +11,7 @@ This repository holds the 2nd release of the data for the EMNLP 2019 paper "In P
 
 
 ## Annotation Updates
-We made the following changes to correct potentially mislabled annotations in the first release of BASIL data. The new annotations in this release are consistent with the [original annotation protocol](https://github.com/marshallwhiteorg/emnlp19-media-bias/blob/master/annotation-protocol.pdf). A complete list of detailed changes can be found [here](./Annotation%20Changes.txt).
+We made the following changes to correct potentially mislabled annotations in the first release of BASIL data. The new annotations in this release are consistent with the [original annotation protocol](https://github.com/marshallwhiteorg/emnlp19-media-bias/blob/master/annotation-protocol.pdf). A complete list of detailed changes can be found [here](annotation_changes.txt).
 
 | Type | Count |
 |-------|---------|
