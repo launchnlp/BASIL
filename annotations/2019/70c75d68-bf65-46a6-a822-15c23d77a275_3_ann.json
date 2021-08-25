@@ -1,12 +1,12 @@
 {
     "article-level-annotations": {
-        "author_feeling_Democractic_lawmakers": "neu",
+        "author_feeling_Democratic_lawmakers": "neu",
         "author_feeling_Donald_Trump": "neg",
         "author_feeling_Republican_lawmakers": "neu",
         "author_feeling_main_event": "neg",
         "notes": "",
         "relative_stance": "liberal",
-        "you_feeling_Democractic_lawmakers": "neu",
+        "you_feeling_Democratic_lawmakers": "neu",
         "you_feeling_Donald_Trump": "neu",
         "you_feeling_Republican_lawmakers": "neu"
     },
