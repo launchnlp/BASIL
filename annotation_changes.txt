@@ -1,5 +1,5 @@
 I. Bias type fix (2)
-2017/47a209b0-fc26-4a0a-a1fe-e4310d1d2419_3_ann/3rd item: change bias type from lexical to informational, and remove originally confusing note.
+2017/47a209b0-fc26-4a0a-a1fe-e4310d1d2419_3_ann/3rd item: change bias type from lexical to informational, and remove the note in v1 that may cause confusion.
 2019/0d10341a-9dba-4374-a524-814c300d1611_3_ann/1st item: double confirm that the bias type is lexical, and add note for clarification.
 
 II. Speaker of quote fix(8)
