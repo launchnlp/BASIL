@@ -23,5 +23,5 @@ We made the following changes to correct potentially mislabled annotations in th
 
 Other minor changes are:
 - We include quotation marks when the biased sentence is marked as a quote (if applicable).
-- We remove exactly duplicated annotations.
+- We remove duplicated annotations (possibly due to file saving errors).
 - We fix inconsistencies between start/end indices and texts.
