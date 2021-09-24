@@ -17,7 +17,7 @@ We made the following changes to correct potentially mislabled annotations in th
 |-------|---------|
 | Bias type (lexical v.s. informational) fix | 2 |
 | Speaker of quote fix | 8 |
-| Polarity fix | 9 |
+| Polarity fix | 8 |
 
 
 
