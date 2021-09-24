@@ -77,9 +77,9 @@
             "indirect-ally-opponent-sentiment": "",
             "indirect-target-name": "",
             "notes": "",
-            "polarity": "pos",
+            "polarity": "neg",
             "quote": "yes",
-            "speaker": "other_pro",
+            "speaker": "other_anti",
             "start": 0,
             "target": "Hillary_Clinton",
             "txt": "\"This is someone who has voted for trade agreements when they have been good for the country and against trade agreements when she thought they were bad for the country.\""
