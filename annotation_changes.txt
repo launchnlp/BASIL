@@ -5,6 +5,7 @@ I. Bias type fix (2)
 II. Speaker of quote fix(8)
 2010/97b1305c-13ca-4b74-a56a-f459bd79dfaf_3_ann/2nd item: change the speaker from Tea_Party to NAACP, and change the target from NAACP to Tea_Party
 2014/b764f81f-6d08-4d7c-b1a8-8961bed0a455_3_ann/4th item: change the speaker from Nebraska_officials to other_anti
+2015/8dac6c12-b5ca-468c-a249-7e0ab42f6b52_1_ann/5th item: change the speaker from other_pro to other_neg
 2017/47a209b0-fc26-4a0a-a1fe-e4310d1d2419_3_ann/2nd item: change the speaker from other_anti to Democratic_lawmaker
 2018/c6a0e65c-4f8b-41de-8200-cd700f683c64_3_ann/4th item: change the speaker from other_neutral to other_pro
 2018/eb17fa36-89f2-4d0b-8133-7bb4682228e1_2_ann/5th item: Fill "other_neutral" in speaker field and change quote field from no to yes
