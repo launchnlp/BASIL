@@ -10,8 +10,8 @@ II. Speaker of quote fix(9)
 2018/c6a0e65c-4f8b-41de-8200-cd700f683c64_3_ann/4th item: change the speaker from other_neutral to other_pro
 2018/eb17fa36-89f2-4d0b-8133-7bb4682228e1_2_ann/5th item: Fill "other_neutral" in speaker field and change quote field from no to yes
 2018/eb17fa36-89f2-4d0b-8133-7bb4682228e1_2_ann/6th item: change the speaker from other_anti to other_neutral
-2019/70c75d68-bf65-46a6-a822-15c23d77a275_1_ann/16th item: change the speaker from from Donald_Trump to Democractic_lawmakers
-2019/70c75d68-bf65-46a6-a822-15c23d77a275_1_ann/18th item: change the speaker from from Donald_Trump to Democractic_lawmakers
+2019/70c75d68-bf65-46a6-a822-15c23d77a275_1_ann/16th item: change the speaker from from Donald_Trump to Republican_lawmakers
+2019/70c75d68-bf65-46a6-a822-15c23d77a275_1_ann/18th item: change the speaker from from Donald_Trump to Democratic_lawmakers
 
 III. Polarity fix (8)
 2012/b5eefefb-2a33-45de-abe1-f855c94165f4_2_ann/10th item: change polarity from positive to negative.
